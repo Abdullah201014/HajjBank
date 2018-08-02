@@ -1,0 +1,42 @@
+/*
+
+.img1
+{
+  opacity: 0.3;
+}
+
+.h1a,.h2a,.h3a,.h4a,.h5a,.h6a,.a1
+{
+  color: green;
+}
+
+.a1
+{
+  text-decoration: underline;
+}
+.main {
+    font-size: 120px;
+    color: red;
+    background-color: black;
+
+}
+.html1, .img1, .video1 {
+  -webkit-filter: invert(1) hue-rotate(180deg);
+  filter: invert(1) hue-rotate(180deg);
+}html1 *
+{
+  background-color: white;
+  color: red;
+}
+
+.html1 div
+{
+  border: 1px blue ;
+  border-radius: 5px;
+}
+*/
+.
+.menu1{
+  background-color: lightblue;
+  color: white;
+}

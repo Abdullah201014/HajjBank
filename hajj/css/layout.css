@@ -1,0 +1,8 @@
+#elements{}
+
+#elements article{display:block; position:relative; min-height:80px; margin:0 0 30px 0; padding:0 0 0 40px;}
+#elements article:last-child{margin:0;}
+#elements article *{margin:0;}
+#elements article i{display:block; position:absolute; top:0; left:0; font-size:24px;}
+#elements article .heading{margin-bottom:10px; font-size:1.2rem;}
+#elements article p{margin-bottom:10px;}
